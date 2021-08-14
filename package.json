@@ -1,6 +1,6 @@
 {
   "name": "@takeaways/ts-init",
-  "version": "0.0.5",
+  "version": "0.0.8",
   "description": "Easily create a type script setup file.",
   "main": "./build/index.js",
   "bin": "./build/index.js",
@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/takeaways/ts-init#readme",
   "devDependencies": {
+    "@types/inquirer": "^7.3.3",
     "nodemon": "^2.0.12",
     "ts-node": "^10.2.0"
   },
