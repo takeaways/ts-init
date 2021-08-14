@@ -1,0 +1,25 @@
+{
+  "name": "ts-init",
+  "version": "0.0.1",
+  "description": "Easily create a type script setup file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takeaways/ts-init.git"
+  },
+  "keywords": [
+    "ts",
+    "typescript",
+    "config",
+    "init"
+  ],
+  "author": "Geonil Jang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takeaways/ts-init/issues"
+  },
+  "homepage": "https://github.com/takeaways/ts-init#readme"
+}
