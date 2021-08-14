@@ -1,9 +1,8 @@
 {
-  "name": "ts-init",
+  "name": "@takeaways/ts-init",
   "version": "0.0.1",
   "description": "Easily create a type script setup file.",
   "main": "./build/index.js",
-  "bin": "./build/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
