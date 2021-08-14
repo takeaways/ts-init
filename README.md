@@ -2,24 +2,18 @@
 
 Easily create a type script setup file.
 
-# Installation
+# How to Use
 
-`npm i @takeaways/ts-init --save`
+`npx @takeaways/ts-init`
 
 Then...
 
-```
-import {} from "";
-shadowizard({
-  shadow_type
-  padding
-})
-
+```bash
+# select react or node
 ```
 
 ## Options
 
-Shadowizard supports 2 options, both of which ar optional;
+ts-init supports options;
 
-- _shadow_type_ - _hard | soft_ (Defaults to soft)
-- _padding_ - _boolean_ (Default to false)
+- _framework_ - _react | node_ (Defaults to react)
